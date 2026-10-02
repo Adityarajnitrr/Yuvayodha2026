@@ -11,7 +11,7 @@ import { useGridStore } from '../../store/gridStore';
 import type { Scenario } from '../../data/engine';
 import { AREA_DEFS } from '../../data/engine';
 
-const ORG = 'Rajasthan Power Distribution Company Ltd. (placeholder)';
+const ORG = 'State Power Distribution Company Ltd. (Demo)';
 
 // ─── 4 px saffron strip ───────────────────────────────────────────────────────
 export function SaffronStrip() {

@@ -3,7 +3,7 @@ export type Lang = 'en' | 'hi';
 export const T = {
   // ── Portal ────────────────────────────────────────────────────────────────
   portalName:    { en: 'Power Distribution Monitoring Portal', hi: 'विद्युत वितरण निगरानी पोर्टल' },
-  orgName:       { en: 'Rajasthan Power Distribution Company Ltd. (placeholder)', hi: 'राजस्थान विद्युत वितरण कंपनी लि. (प्लेसहोल्डर)' },
+  orgName:       { en: 'State Power Distribution Company Ltd. (Demo)', hi: 'राज्य विद्युत वितरण कंपनी लि. (डेमो)' },
   subLine:       { en: 'Renewable Energy Supply Management', hi: 'नवीकरणीय ऊर्जा आपूर्ति प्रबंधन' },
 
   // ── Nav ───────────────────────────────────────────────────────────────────
