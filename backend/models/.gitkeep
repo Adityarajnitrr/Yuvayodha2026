@@ -1,0 +1,7 @@
+# Place your trained model files here
+# Files needed:
+# - demand_h1.joblib through demand_h4.joblib
+# - solar_h1.joblib through solar_h4.joblib
+# - meta.json
+# 
+# These files come from running your Colab notebook
