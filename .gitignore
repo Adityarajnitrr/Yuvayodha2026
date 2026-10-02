@@ -12,14 +12,8 @@ backend/__pycache__/
 backend/*.pyc
 backend/venv/
 backend/.venv/
-backend/models/*.joblib
-backend/models/*.pkl
-backend/models/*.h5
-backend/models/*.pt
-backend/models/meta.json
-!backend/models/.gitkeep
 
-# ML outputs
+# ML outputs (but NOT model files - we want those!)
 *.csv
 *.zip
 outputs/
